@@ -1,0 +1,39 @@
+/*body{font-family: 'Roboto', sans-serif; funktioniert aus irgendeinem nicht*/
+*{
+    font-family: 'Open Sans', sans-serif;
+}
+
+header{
+    font-family: 'Bitter', serif;
+}
+
+
+figure{
+    margin-bottom: 2.5em;
+}
+
+nav, footer{
+    background-color: #ffff00;
+    font-family: Verdana, sans-serif;
+}
+
+article{
+    background-color: #ffc0cb;
+    font-family: Georgia, serif;
+}
+
+aside{
+    background-color: #c0c0c0;
+    font-family: "Courier New", "Courier", monospace;
+}
+
+span{
+    color: #ff0000;
+    font-weight: bold;
+}
+
+a h3{
+    border-bottom-width: 1px;
+    border-bottom-style: dotted;
+    border-bottom-color: #ff0000;
+}
